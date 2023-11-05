@@ -1,0 +1,3 @@
+Projekt jest bardzo rzetelnie stworzony
+Jest stworzony w jezyku C
+Projekt jest tworzony przez jedną osobę
